@@ -38,7 +38,7 @@ This app is not just about ordering coffee; it's about enhancing your coffee jou
 ## How to Install
 
 ### 1. Clone the repository:
-git clone https://github.com/your-github-username/coffee-shop.git
+git clone https://github.com/SanggulRotuaPakpahan/Coffe-Shop.git
 
 ### 2. Navigate to the project directory:
 cd coffee-shop
